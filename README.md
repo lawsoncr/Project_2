@@ -12,3 +12,10 @@ Any java runtime application will work with this code, such as eclipse which can
 2. Copy and paste the code into your java editing software.
 
     <img src="images/code.JPG" width="300" >
+
+3. Run the Code as a java application.
+4. Enter your first and last name and your date of birth.
+
+    <img src="images/code2.JPG" width="300" >
+    
+5. Hit enter on your keyboard and your username will be generated.
