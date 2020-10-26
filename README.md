@@ -28,6 +28,10 @@ Feel free however to use any java application that you want.
 
 ## FAQ
 
+How to I paste the code there is no where to paste it?
+
+You need to create a new java project and then add a class to the project, and then you will be able to paste and run the code.
+
 ## Support
 
 If you run into any issues, email me at lawsoncr@appstate.edu.
