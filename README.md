@@ -19,3 +19,16 @@ Any java runtime application will work with this code, such as eclipse which can
     <img src="images/code2.JPG" width="300" >
     
 5. Hit enter on your keyboard and your username will be generated.
+
+## FAQ
+
+## Support
+
+If you run into any issues, email me at lawsoncr@appstate.edu.
+
+## How to Contribute
+
+If you see a way to make the code more efficient or find any bugs in the code you can submit them [here](https://https://github.com/lawsoncr/Project_2/issues).
+
+## Licensing
+The code is open source under the [MIT](https://opensource.org/licenses/MIT) license. 
