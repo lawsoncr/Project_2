@@ -10,11 +10,11 @@ class UsernameGenerator
         Scanner in = new Scanner(System.in);
         try 
         {
-            System.out.println("Please Enter Full Name: ");
+            System.out.println("Please Enter First and Last Name: ");
             firstName = in.next();
             secondName = in.next();
             
-            System.out.println("Please DOB (DD/MM/YY): ");
+            System.out.println("Please DOB, DD/MM/YY: ");
             date = in.next();
             
             int num1 = (Integer.parseInt(date.substring(0,2)) +
@@ -23,7 +23,7 @@ class UsernameGenerator
             int num2 = Integer.parseInt(date.substring(1,2));
             
             username = secondName.substring(0,(secondName.length()-1)) + firstName.charAt(0) + num1 + num2;
-            System.out.println("Your Username Is: " + username);
+            System.out.println("Your unique Username Is: " + username);
         } catch(Exception e) 
         {
             System.out.println("Input Error");
