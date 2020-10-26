@@ -5,8 +5,10 @@ This is documentation for code that generates a unique username for a user based
 ## What You Need
 
 A computer and keyboard.
+
 Any java runtime application will work with this code, such as eclipse which can be downloaded [here](https://www.eclipse.org/downloads/packages/release/2020-09/r/eclipse-ide-eclipse-committers).
-Feel free hoowever to use any java application that you are used to.
+
+Feel free however to use any java application that you are used to.
 
 ## Installation 
 
