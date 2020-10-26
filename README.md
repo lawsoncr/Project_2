@@ -1,6 +1,6 @@
-# Project_2
+# Username Generator
 
-This is documentation for code that generates a unique username based off of thier name and date of birth.
+This is documentation for code that generates a unique username for a user based off of thier name and date of birth.
 
 ## What You Need
 
