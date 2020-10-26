@@ -38,7 +38,7 @@ If you run into any issues, email me at lawsoncr@appstate.edu.
 
 ## How to Contribute
 
-If you see a way to make the code more efficient or find any bugs in the code you can submit them [here](https://https://github.com/lawsoncr/Project_2/issues).
+If you see a way to make the code more efficient or find any bugs in the code you can submit them [here](https://github.com/lawsoncr/Project_2/issues).
 
 ## Licensing
 The code is open source under the [MIT](https://opensource.org/licenses/MIT) license. 
